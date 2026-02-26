@@ -1,2 +1,2 @@
-# ResAI-2026
-Resilience and AI Workshop 2026 @  Informatik Festival - TUD Dresden
+# ResAI Workshop
+Resilience and AI Workshop @  Informatik Festival - TUD Dresden
